@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{98232DAB-9ABE-445F-B332-46226AC462F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantBLL", "RestaurantBLL\RestaurantBLL.csproj", "{4EB47E09-58B7-4E39-AC59-9F8E88B2E7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantDAL", "RestaurantDAL\RestaurantDAL.csproj", "{A78BFE08-C7F8-42F2-BB32-091AC4018963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98232DAB-9ABE-445F-B332-46226AC462F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98232DAB-9ABE-445F-B332-46226AC462F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98232DAB-9ABE-445F-B332-46226AC462F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98232DAB-9ABE-445F-B332-46226AC462F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB47E09-58B7-4E39-AC59-9F8E88B2E7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB47E09-58B7-4E39-AC59-9F8E88B2E7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB47E09-58B7-4E39-AC59-9F8E88B2E7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB47E09-58B7-4E39-AC59-9F8E88B2E7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78BFE08-C7F8-42F2-BB32-091AC4018963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78BFE08-C7F8-42F2-BB32-091AC4018963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78BFE08-C7F8-42F2-BB32-091AC4018963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78BFE08-C7F8-42F2-BB32-091AC4018963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
